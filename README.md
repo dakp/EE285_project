@@ -33,8 +33,8 @@ In case you want to run training as well, the following steps need to be perform
 chmod a+x setup.sh
 ./setup.sh
 ```
-2)
-Run the iPython notebook Skin_seg.ipynb to generate the dataset for the skin segmented images.
+2) Run the iPython notebook Skin_seg.ipynb to generate the dataset for the skin segmented images.
+
 Run the iPython notebook Darknet.ipynb to generate the dataset for the object detection images.
 
 Run the iPython notebook Main_training.ipynb using different possible datasets as mentioned above.
