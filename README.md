@@ -26,7 +26,7 @@ To run the demo:
 chmod a+x setup.sh
 ./setup.sh
 ```
-Run demo.ipynb for running the demo which takes <1 min. However note that since the training dataset is not large the accuracy will be poor. However we have saved the results of training on the whole dataset in the directory results/ which has also been reported in our final report.
+Run demo.ipynb for running the demo which takes <1 min. However note that since the training dataset is not large the accuracy will be poor. However we have saved the results of training on the whole dataset in the directory results/. The true results for the whole dataset can be extracted using plot.ipynb which has also been reported in our final report.
 
 2) In case you want to see the output of skin segmentation on the input images run the iPython notebook Skin_seg.ipynb to generate the dataset for the skin segmented images. You need to change the directory according to your requirement.
 
